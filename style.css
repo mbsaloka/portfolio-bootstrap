@@ -7,6 +7,7 @@
   background-color: #e2edff;
 }
 
-section {
+section,
+footer {
   padding-top: 5rem;
 }
